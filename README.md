@@ -12,5 +12,4 @@ Graças ao seu vasto ecossistema de bibliotecas, o Python é amplamente utilizad
 * **Automação e Scripts:** Ideal para automatizar tarefas repetitivas do dia a dia e web scraping.
 * **Computação Científica:** Muito utilizada em universidades e laboratórios de pesquisa.
 
----
-*Nota: As seções de "Prós e Contras" e a pasta de "Exemplos" serão populadas e organizadas pelos demais membros do grupo.*
+
