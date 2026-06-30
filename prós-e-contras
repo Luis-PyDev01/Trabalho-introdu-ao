@@ -1,0 +1,46 @@
+ PRÓS E CONTRAS DA LINGUAGEM PYTHON
+
+
+PRÓS
+
+1. Sintaxe simples e legível, fácil de aprender
+2. Versátil (web, dados, IA, automação, desktop)
+3. Grande ecossistema com mais de 300 mil bibliotecas
+4. Comunidade ativa e abundante documentação
+5. Alta produtividade com menos código
+6. Tipagem dinâmica que agiliza desenvolvimento
+7. Execução interativa para testes rápidos
+8. Integração com outras linguagens
+9. Líder em ciência de dados e inteligência artificial
+10. Gratuito e open source
+
+
+CONTRAS
+
+1. Desempenho mais lento que linguagens compiladas
+2. Alto consumo de memória
+3. GIL limita execução paralela de threads
+4. Erros de tipo apenas em tempo de execução
+5. Opções limitadas para desenvolvimento mobile
+6. Gerenciamento de dependências problemático
+7. Pouco usado em sistemas embarcados
+8. Frameworks para jogos são limitados
+9. Código fonte fica exposto sem ofuscação
+10. Indentação obrigatória causa erros
+
+
+QUANDO USAR
+
+- Ciência de dados e IA
+- Automação e scripts
+- Prototipagem
+- Backend web
+- Ensino
+
+QUANDO EVITAR
+
+- Sistemas de alta performance
+- Aplicações em tempo real
+- Jogos profissionais
+- Sistemas embarcados
+- Aplicações mobile
